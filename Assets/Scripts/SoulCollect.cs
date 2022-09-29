@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
+
 public class SoulCollect : MonoBehaviour
 {
    public bool CanCollect;
